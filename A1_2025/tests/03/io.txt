@@ -1,0 +1,31 @@
+> Welcome to the Spritzerstand Simulator!!!
+> 
+> How can I assist you today?
+> 1. I'd like to return my glasses.
+> 2. I'd like to order.
+> 3. Quit
+?  > 
+< 1
+> 
+> How many glasses do you want to return?
+?  > 
+< 1
+> 
+> Select a glass size (in ml)
+> - 300
+> - 500
+?  > 
+< 500
+> 
+> --------------------------------
+> You returned 1 glasses at 2.00 € each.
+> Your total cashback is: 2.00 €
+> --------------------------------
+> Here you go... have a pleasant evening!
+> 
+> How can I assist you today?
+> 1. I'd like to return my glasses.
+> 2. I'd like to order.
+> 3. Quit
+?  > 
+< 3

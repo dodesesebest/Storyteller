@@ -1,0 +1,42 @@
+> Welcome to the Spritzerstand Simulator!!!
+> 
+> How can I assist you today?
+> 1. I'd like to return my glasses.
+> 2. I'd like to order.
+> 3. Quit
+?  > 
+< 2
+> 
+> What are you feeling today?
+> 1. Virgin Cuba Libre
+> 2. Carbonas rhoncus bibendum
+> 3. Fizzy water
+?  > 
+< 1
+> 
+> Select a glass size (in ml)
+> - 300
+> - 500
+?  > 
+< 300
+> 
+> How much would you like to tip? (in %)
+?  > 
+< 25
+> 
+> --------------------------------
+> - 300 ml glass of Virgin Cuba Libre
+> - Drink price: 2.50 €
+> - Deposit: 1.50 €
+> - Total without tip: 4.00 €
+> - Tip: 25 %
+> - Total: 5.00 €
+> --------------------------------
+> Here you go... have a pleasant evening!
+> 
+> How can I assist you today?
+> 1. I'd like to return my glasses.
+> 2. I'd like to order.
+> 3. Quit
+?  > 
+< 3

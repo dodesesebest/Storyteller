@@ -1,0 +1,16 @@
+> Welcome to the Spritzerstand Simulator!!!
+> 
+> How can I assist you today?
+> 1. I'd like to return my glasses.
+> 2. I'd like to order.
+> 3. Quit
+?  > 
+< 4
+> [Error]: Please choose a valid option!
+> 
+> How can I assist you today?
+> 1. I'd like to return my glasses.
+> 2. I'd like to order.
+> 3. Quit
+?  > 
+< 3

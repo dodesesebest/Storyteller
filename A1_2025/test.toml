@@ -1,0 +1,61 @@
+[project_definition]
+binary_path = "./a1"
+makefile_path = "."
+make_targets = ["all"]
+project_name = "a1"
+global_timeout = 20
+
+[[testcases]]
+name = "Welcome, Quit!"
+description = "Quit after the welcome message was printed"
+type = "OrdIO"
+io_file = "./tests/01/io.txt"
+io_prompt = "^\\s*>\\s*$"
+exp_exit_code = 0
+protected = false
+argv = []
+env_vars = []
+
+[[testcases]]
+name = "Wrong Selection"
+description = "Check validity of order selection"
+type = "OrdIO"
+io_file = "./tests/02/io.txt"
+io_prompt = "^\\s*>\\s*$"
+exp_exit_code = 0
+protected = false
+argv = []
+env_vars = []
+
+[[testcases]]
+name = "Returning a glass"
+description = ""
+type = "OrdIO"
+io_file = "./tests/03/io.txt"
+io_prompt = "^\\s*>\\s*$"
+exp_exit_code = 0
+protected = false
+argv = []
+env_vars = []
+
+[[testcases]]
+name = "Order a fancy drink"
+description = ""
+type = "OrdIO"
+io_file = "./tests/04/io.txt"
+io_prompt = "^\\s*>\\s*$"
+exp_exit_code = 0
+protected = false
+argv = []
+env_vars = []
+
+[[testcases]]
+name = "Example Outputs"
+description = ""
+type = "OrdIO"
+io_file = "./tests/05/io.txt"
+io_prompt = "^\\s*>\\s*$"
+exp_exit_code = 0
+protected = false
+argv = []
+env_vars = []
