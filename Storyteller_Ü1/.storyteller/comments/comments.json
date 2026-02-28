@@ -1,0 +1,28 @@
+{
+  "comments": {
+    "3faef984-c779-438e-99b2-de801be540f5": [
+      {
+        "id": "ce3fbb7d-b4b0-4fb3-816a-0e8c353c5f40",
+        "displayCommentEventId": "3faef984-c779-438e-99b2-de801be540f5",
+        "displayCommentEventSequenceNumber": 0,
+        "developerGroupId": "7ae47e96-2f7c-4adc-9fc4-8723ad1b3fcc",
+        "timestamp": 1772279317030,
+        "commentText": "In this playback, a simple diceroll-simulator is written. \n\nFor you: I want to introduce you to the concept of randomness and pseudorandomness + give you  some explanation, for what we need the stdlib and stdio libaries.\n\nFor me: I am exploring this storyteller-tool, for this code, I just use comments to keep it simple.",
+        "textFormat": "markdown",
+        "commentTitle": "Introduction Comment",
+        "ttsFilePath": null,
+        "selectedCodeBlocks": [],
+        "imageURLs": [],
+        "videoURLs": [],
+        "audioURLs": [],
+        "linesAbove": 0,
+        "linesBelow": 0,
+        "currentFilePath": "",
+        "viewableBlogText": "",
+        "commentTags": [],
+        "questionCommentData": null,
+        "position": 0
+      }
+    ]
+  }
+}

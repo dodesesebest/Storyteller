@@ -1,0 +1,47 @@
+{
+  "allDevelopers": {
+    "28e1d7bc-b0ca-4919-99c1-bed413b250fc": {
+      "id": "28e1d7bc-b0ca-4919-99c1-bed413b250fc",
+      "userName": "Storyteller System",
+      "email": "no-email",
+      "avatarURL": "https://www.gravatar.com/avatar/"
+    },
+    "21d8537c-1951-4913-a78e-435273f66e5a": {
+      "id": "21d8537c-1951-4913-a78e-435273f66e5a",
+      "userName": "Anonymous System",
+      "email": "no-email",
+      "avatarURL": "https://www.gravatar.com/avatar/"
+    },
+    "995e2073-bf48-427d-a05c-9a024e3fd564": {
+      "id": "995e2073-bf48-427d-a05c-9a024e3fd564",
+      "userName": "Dominik Deniz Sert",
+      "email": "dominik.sert@student.tugraz.at",
+      "avatarURL": "https://www.gravatar.com/avatar/7ae6e275b926351ecef41a9cb0dcccc4"
+    }
+  },
+  "allDeveloperGroups": {
+    "7ae47e96-2f7c-4adc-9fc4-8723ad1b3fcc": {
+      "id": "7ae47e96-2f7c-4adc-9fc4-8723ad1b3fcc",
+      "memberIds": [
+        "28e1d7bc-b0ca-4919-99c1-bed413b250fc"
+      ]
+    },
+    "034c5fe5-e475-470a-9558-4d5148363162": {
+      "id": "034c5fe5-e475-470a-9558-4d5148363162",
+      "memberIds": [
+        "21d8537c-1951-4913-a78e-435273f66e5a"
+      ]
+    },
+    "0039fda7-6420-49b8-a865-849b6eebc0d5": {
+      "id": "0039fda7-6420-49b8-a865-849b6eebc0d5",
+      "memberIds": [
+        "995e2073-bf48-427d-a05c-9a024e3fd564"
+      ]
+    }
+  },
+  "activeDeveloperGroupId": "0039fda7-6420-49b8-a865-849b6eebc0d5",
+  "anonymousDeveloperId": "21d8537c-1951-4913-a78e-435273f66e5a",
+  "anonymousDeveloperGroupId": "034c5fe5-e475-470a-9558-4d5148363162",
+  "systemDeveloperId": "28e1d7bc-b0ca-4919-99c1-bed413b250fc",
+  "systemDeveloperGroupId": "7ae47e96-2f7c-4adc-9fc4-8723ad1b3fcc"
+}
